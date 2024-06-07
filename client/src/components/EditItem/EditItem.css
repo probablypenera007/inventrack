@@ -1,0 +1,43 @@
+.edit-table-container {
+    margin: 20px;
+  }
+  
+  .edit-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .edit-table th, .edit-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .edit-table th {
+    background-color: #5b96b3;
+    text-align: center; 
+  }
+  
+  .edit-input {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    font-weight: bold;
+  }
+  
+  .edit-item-button {
+    padding: 10px 30px;
+    background-color: #165f82;
+    color: #96dcf8;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .edit-item-button:hover {
+    background-color: #003d80;
+  }
+  

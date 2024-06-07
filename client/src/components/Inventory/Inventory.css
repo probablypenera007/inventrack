@@ -1,0 +1,19 @@
+.inventory-table-container {
+    margin: 20px;
+  }
+  
+  .inventory-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .inventory-table th, .inventory-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .inventory-table th {
+    background-color: #5b96b3;
+    text-align: center; 
+  }
