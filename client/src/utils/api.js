@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3001/api/items';
+const API_URL = 'https://inventrack-qh83.onrender.com/api/items';
 
 export const getItems = async () => {
   try {
